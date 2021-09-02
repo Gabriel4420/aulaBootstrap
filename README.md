@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="AulaBootstrap" />
+  <img src="./HomeApp.png" alt="AulaBootstrap" />
 
   &#xa0;
 
