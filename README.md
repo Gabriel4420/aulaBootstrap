@@ -15,7 +15,6 @@
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Gabriel4420/aulabootstrap?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/Gabriel4420/aulabootstrap?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Gabriel4420/aulabootstrap?color=56BEB8" /> -->
 
